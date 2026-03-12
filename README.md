@@ -71,6 +71,9 @@ Search → "YouTube to NotebookLM Extension" → Add to Chrome
 
 ---
 
+<img width="1882" height="856" alt="image" src="https://github.com/user-attachments/assets/ae8c72a4-1096-414a-ba9a-8c707258763c" />
+
+
 ## 🌍 Supports Indian Languages · 🆓 Free to Start · 🔒 Your Data Stays Private
 
 ---
