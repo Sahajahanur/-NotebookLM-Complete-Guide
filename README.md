@@ -71,13 +71,19 @@ Search → "YouTube to NotebookLM Extension" → Add to Chrome
 
 ---
 
-## Hands-on Demo
+### Hands-on Demo
 
 Below is a screenshot of NotebookLM where I uploaded a YouTube video
 and generated insights, summaries, and structured notes.
 
-This demonstrates how NotebookLM can convert sources into
-interactive knowledge tools like audio overview, slides, and mind maps.
+**What I tested:**
+
+- Uploaded a YouTube video as a source
+- Generated AI summary of the video
+- Explored Audio Overview feature
+- Generated slides and mind map
+- Observed how NotebookLM organizes insights
+  
 
 <img width="1882" height="856" alt="image" src="https://github.com/user-attachments/assets/ae8c72a4-1096-414a-ba9a-8c707258763c" />
 
